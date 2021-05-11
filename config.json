@@ -2,5 +2,6 @@
     "camera": {
         "resolution": "4056x3040",
         "framerate": 30
-    }
+    },
+    "picture_directory": "/home/pi/Pictures/"
 }
