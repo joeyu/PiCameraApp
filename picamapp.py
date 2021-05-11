@@ -3,7 +3,7 @@ import time
 from datetime import datetime, timedelta
 from gpiozero import Button
 from picamera import PiCamera
-from picameraconfig import Config
+from picamconfig import Config
 
 logging.basicConfig(level=logging.DEBUG)
 
